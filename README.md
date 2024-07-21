@@ -64,10 +64,15 @@ In the last steps of the installation process, we installed osTicket, reloaded I
 
 
 <p>
-<img src="![Screen Shot 2024-07-20 at 10 48 25 AM](https://github.com/user-attachments/assets/1e1df77a-7f30-489c-8127-6a2d80e2e582)" height="80%" width="80%" alt="File(s) Installation Steps"/>
+  
+![Screen Shot 2024-07-21 at 12 00 23 PM](https://github.com/user-attachments/assets/a2833cdd-e0a2-4058-bc2f-d190609c8849)
+
 </p>
 <p>
 In this step, we created an Azure Virtual Machine that runs with Windows 10 OS.  We named the virtual machine VM-osTicket, and set-up a username and password in order to be able to log into it.  
 </p>
 <br />
+
+![Screen Shot 2024-07-21 at 12 00 23 PM](https://github.com/user-attachments/assets/e945f1f7-e73f-4746-a7c5-cca9b886e87b)
+
 
