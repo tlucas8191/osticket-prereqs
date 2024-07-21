@@ -33,7 +33,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/DJmEXEB.png" height="80%" width="80%" alt="File(s) Installation Steps"/>
+  
+![Screen Shot 2024-07-21 at 12 46 19 PM](https://github.com/user-attachments/assets/8ac23ad5-3495-49af-82cb-6dc00a466322) "Virtual Machine Creation Steps"
+
 </p>
 <p>
 In this step, we created an Azure Virtual Machine that runs with Windows 10 OS.  We named the virtual machine VM-osTicket, and set-up a username and password in order to be able to log into it.  
