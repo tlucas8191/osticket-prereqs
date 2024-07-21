@@ -40,13 +40,21 @@ In this step, we created an Azure Virtual Machine that runs with Windows 10 OS. 
 </p>
 <br />
 
+
+
+
 <p>
-<img src="https://imgur.com/sVS93bb.png" height="80%" width="80%" alt="File(s) Installation Steps"/>
+  
+![Screen Shot 2024-07-21 at 12 54 21 PM](https://github.com/user-attachments/assets/f7e53ce9-479a-44ac-ad10-5dfa84371b89) "File(s) Installation Steps"
+
 </p>
 <p>
 Next, we installed and enabled IIS in Windows (with CGI and Common HTTP Features) and IIS Management Console.  Then, we opened a folder that contained osTicket software and other installation files (which are dependecies used to run osTicket).  We used these files to install the osTicket dependencies 1st.  [ List of dependecy files installed in this step: PHP Manager for IIS, Rewrite Module, PHP 7.3.8, VC_redist.x86.exe, MySQL 5.5.62  ]  Afterwards, we opened IIS as an Admin, we registered PHP from within IIS, and we reloaded IIS (which means to open IIS, Stop and Start the server). 
 </p>
 <br />
+
+
+
 
 <p>
   
