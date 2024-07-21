@@ -49,30 +49,17 @@ Next, we installed and enabled IIS in Windows (with CGI and Common HTTP Features
 <br />
 
 <p>
-<img src="https://imgur.com/kiEIHj2.png" height="80%" width="80%" alt="Installing Actual osTicket software"/>
+  
+![Screen Shot 2024-07-21 at 12 58 59 PM](https://github.com/user-attachments/assets/655cb9a3-d93e-4d27-a0d7-1ee8bc187721)  "Installing Actual osTicket Software"
+
 </p>
 <p>
 In the last steps of the installation process, we installed osTicket, reloaded IIS, and enabled the needed back-end extensions and set configuratons, and installed HeidiSQL from the installation files so that it runs  properly.  Finally, we browsed to the help desk login page @ http://localhost/osTicket/scp/login.php, and we browsed to the end user login page @ http://localhost/osTicket/, to ensure that we set up everything properly and that we can log into both pages in the browser.
-
-
 </p>
 <br />
 
 
 
-![Screen Shot 2024-07-20 at 10 48 25 AM](https://github.com/user-attachments/assets/1e1df77a-7f30-489c-8127-6a2d80e2e582)
 
-
-<p>
-  
-![Screen Shot 2024-07-21 at 12 00 23 PM](https://github.com/user-attachments/assets/a2833cdd-e0a2-4058-bc2f-d190609c8849)
-
-</p>
-<p>
-In this step, we created an Azure Virtual Machine that runs with Windows 10 OS.  We named the virtual machine VM-osTicket, and set-up a username and password in order to be able to log into it.  
-</p>
-<br />
-
-![Screen Shot 2024-07-21 at 12 00 23 PM](https://github.com/user-attachments/assets/e945f1f7-e73f-4746-a7c5-cca9b886e87b)
 
 
