@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/L3z3dmM.png" height="80%" width="80%" alt="VM Creation Steps"/>
+<img src="https://imgur.com/DJmEXEB.png" height="80%" width="80%" alt="File(s) Installation Steps"/>
 </p>
 <p>
 In this step, we created an Azure Virtual Machine that runs with Windows 10 OS.  We named the virtual machine VM-osTicket, and set-up a username and password in order to be able to log into it.  
@@ -44,9 +44,7 @@ In this step, we created an Azure Virtual Machine that runs with Windows 10 OS. 
 <img src="https://imgur.com/sVS93bb.png" height="80%" width="80%" alt="File(s) Installation Steps"/>
 </p>
 <p>
-Next, we installed and enabled IIS in Windows (with CGI and Common HTTP Features) and IIS Management Console.  Then, we opened a folder that contained osTicket software and other installation files (which are dependecies used to run osTicket).  We used these files to install the osTicket dependencies 1st.  [ List of dependecy files installed in this step: PHP Manager for IIS, Rewrite Module, PHP 7.3.8, VC_redist.x86.exe, MySQL 5.5.62  ]  Afterwards, we opened IIS as an Admin, we registered PHP from within IIS, and we reloaded IIS (which means to open IIS, Stop and Start the server).
-
-  
+Next, we installed and enabled IIS in Windows (with CGI and Common HTTP Features) and IIS Management Console.  Then, we opened a folder that contained osTicket software and other installation files (which are dependecies used to run osTicket).  We used these files to install the osTicket dependencies 1st.  [ List of dependecy files installed in this step: PHP Manager for IIS, Rewrite Module, PHP 7.3.8, VC_redist.x86.exe, MySQL 5.5.62  ]  Afterwards, we opened IIS as an Admin, we registered PHP from within IIS, and we reloaded IIS (which means to open IIS, Stop and Start the server). 
 </p>
 <br />
 
@@ -59,3 +57,17 @@ In the last steps of the installation process, we installed osTicket, reloaded I
 
 </p>
 <br />
+
+
+
+![Screen Shot 2024-07-20 at 10 48 25 AM](https://github.com/user-attachments/assets/1e1df77a-7f30-489c-8127-6a2d80e2e582)
+
+
+<p>
+<img src="![Screen Shot 2024-07-20 at 10 48 25 AM](https://github.com/user-attachments/assets/1e1df77a-7f30-489c-8127-6a2d80e2e582)" height="80%" width="80%" alt="File(s) Installation Steps"/>
+</p>
+<p>
+In this step, we created an Azure Virtual Machine that runs with Windows 10 OS.  We named the virtual machine VM-osTicket, and set-up a username and password in order to be able to log into it.  
+</p>
+<br />
+
